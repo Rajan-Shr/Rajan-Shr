@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rajan-Shr
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Python
 - 📫 How to reach me Email:rajanstha829@gmail.com
 
 <!---
