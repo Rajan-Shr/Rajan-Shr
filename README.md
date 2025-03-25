@@ -1,6 +1,6 @@
-# Hi, I'm Rajan Shrestha 👋
+# Hi, I'm Rajan Shrestha 
 
-### A passionate Developer 🚀
+### A passionate Developer 
 
 ---
 
