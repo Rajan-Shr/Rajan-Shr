@@ -45,6 +45,3 @@
 
 - [LinkedIn](https://www.linkedin.com/in/rajan-shrestha-697039348/)
 
----
-
-#### Thanks for visiting my profile! 😊
