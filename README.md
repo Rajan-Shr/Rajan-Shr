@@ -46,7 +46,7 @@
 
 ### 📫 Let's Connect:
 
-- [LinkedIn]([https://www.linkedin.com/in/rajan-shrestha/](https://www.linkedin.com/in/rajan-shrestha-697039348/))
+- [LinkedIn](https://www.linkedin.com/in/rajan-shrestha-697039348/)
 
 ---
 
